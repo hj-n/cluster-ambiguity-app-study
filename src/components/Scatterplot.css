@@ -1,0 +1,57 @@
+.finish {
+	float: right;
+	margin-right: 17px;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+.buttonDivSplot {
+	width: 720px;
+	margin: 0 auto;
+	position: relative;
+	top: 700px;
+	/* padding */
+}
+
+.ambiguityDivSplot {
+	width: 720px;
+	margin: 0 auto;
+	/* padding */
+}
+
+.ambiguity {
+	margin-left: 10px;
+	margin-right: 10px;
+	height: 70px; 
+	justify-content: center;
+	width: 120.5px;
+	font-size: 17px; 
+}
+
+.ambiguityButtonWrapper {
+	margin: auto;
+	position: relative;
+	top: 720px;
+}
+
+.ambtext {
+	height: 50px;
+}
+
+.ambLabel {
+	font-size: 20px;
+	margin-right: 23.2px;
+}
+
+.ambiguityConfirmWrapper {
+	margin: auto;
+	position: relative;
+	top: 730px;
+}
+
+.ambiguityConfirm {
+	float: right;
+		margin-right: 17px;
+		padding-left: 30px;
+		padding-right: 30px;
+}

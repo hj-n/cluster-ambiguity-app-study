@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600&display=swap');
+
+html {
+	font-family: 'Montserrat', sans-serif;
+		-webkit-touch-callout: none;
+			/* iOS Safari */
+			-webkit-user-select: none;
+			/* Safari */
+			-khtml-user-select: none;
+			/* Konqueror HTML */
+			-moz-user-select: none;
+			/* Firefox */
+			-ms-user-select: none;
+			/* Internet Explorer/Edge */
+			user-select: none;
+
+}
+
+h1 {
+	font-size: 2.5rem;
+}
+
+b {
+	font-weight: 600;
+}
+
+p {
+	font-size: 1.1rem;
+}
+
+h2 {
+	font-size: 2rem;
+}
+
+h3 {
+	font-size: 1.6rem;
+}
+
+body {
+	width: 1420px;
+	margin: 0 auto;
+}
+
+.intro {
+	width: 1000px;
+	margin: 0 auto;
+
+}
+
+#startButton {
+	width: 1000px;
+	margin: 0 auto;
+	align-items: center;
+	justify-content: center;
+	display: flex;
+}
+
+.splot {
+	width: 720px;
+	margin: 0 auto;
+}
+
+.trial {
+	width: 730px;
+	margin: 0 auto;
+}
+
+button {
+	height: 50px;
+	font-size: 1.3rem;
+	font-family: 'Montserrat', sans-serif;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	/* margin-right: 10px; */
+	cursor: pointer;
+}
+
+.textInput {
+	height: 23px;
+	font-size: 1.1rem;
+	font-family: 'Montserrat', sans-serif;
+	margin-bottom: 10px;
+	margin-left: 10px;
+}
+
+label {
+	margin-right: 30px;
+}
+
+.radioInputWrapper {
+	display: flex;
+}
+
+.radioInputInner {
+	margin-top: 19px;
+	margin-left: 10px;
+}
+
+.dropdown {
+	height: 30px;
+	font-size: 1.1rem;
+	font-family: 'Montserrat', sans-serif;
+	margin-bottom: 10px;
+	margin-left: 10px;
+	margin-right: 20px;;
+}
+
